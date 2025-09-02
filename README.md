@@ -14,10 +14,4 @@ Outside of work, you’ll find me with my wife and family, our lively [Weimarane
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pkadams67&theme=dark&background=000000)](https://git.io/streak-stats)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkadams67&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 🌐 [Website](https://adams.io) | 💼 [LinkedIn](https://www.linkedin.com/in/pkadams67) | 📘 [Facebook](http://facebook.com/pkadams67)
