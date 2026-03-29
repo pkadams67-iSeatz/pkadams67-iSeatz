@@ -1,17 +1,17 @@
-![Hello 👋](https://i.imgur.com/kFXufmS.jpeg)
+![Hello 👋](https://i.imgur.com/EfpcFRm.png)
 
 ## Hello, I’m Paul.
 
-My passion for technology began at the age of 10, when I keypunched a Fortran tic-tac-toe game on a UNIVAC Series 90 in 1977. That early brush with “Big Iron” stuck with me.
+I’ve been building and leading critical systems most of my life. My introduction to computing came early—keypunching a Fortran tic-tac-toe program on a UNIVAC Series 90 in 1977. Since then, I’ve focused on technology that works when it matters.
 
-I served 16 years in the U.S. Army, progressing through Airborne and Special Operations assignments and earning my [Ranger Tab](https://en.wikipedia.org/wiki/Ranger_School) in 1995. I directed secure IT operations in high-stakes environments, leading teams that achieved 99.999% uptime on mission-critical infrastructure.
+I spent 16 years in the U.S. Army, serving in airborne and Special Forces units and earning my [Ranger Tab](https://www.army.mil/ranger). I led secure IT operations in high-risk environments—managing mission-critical infrastructure for combat, counterterrorism, and humanitarian operations and delivering 99.998% uptime under pressure. That experience shaped how I think about systems, risk, accountability, and leadership. A post-service degree in psychology and graduate coursework in counseling sharpened that further, informing how I build psychologically safe teams that stay cohesive when things get hard.
 
-After my military service, I earned a degree in psychology and pursued graduate study in counseling, then re-entered the tech industry through [DevMountain’s](https://devmountain.com?utm_source=chatgpt.com) iOS boot camp in 2015. Four years of mobile development led me to engineering leadership in 2019, where my background in behavioral healthcare helps me coach and grow high-performing teams.
+Today, I lead mobile engineering at [iSeatz](https://www.iseatz.com), supporting large-scale travel loyalty platforms for American Express Card Members. My work spans platform architecture, mobile delivery at enterprise scale, and building teams that ship reliably in regulated environments. I write about engineering culture, tech debt, code reviews, and what makes teams actually work at [adams.io/blog](https://adams.io/blog).
 
-Today, I lead mobile engineering at [iSeatz](https://www.iseatz.com?utm_source=chatgpt.com), where our platform supports over $9 billion in travel loyalty experiences for [American Express](https://www.americanexpress.com/?utm_source=chatgpt.com) card members. I’ve built mobile platforms that reach millions of users and scaled fintech systems that process billions of transactions.
+Outside work, I spend time with my wife, family, and our [Weimaraner](https://www.akc.org/dog-breeds/weimaraner/)—enjoying live music, [travel](https://www.google.com/maps/d/u/1/viewer?mid=17xvqfTc_OMc9VCa3vX-LsG3JqfC43mo&ll=23.179006731910512%2C-39.19093074793049&z=3), and Alabama football.
 
-Outside of work, you’ll find me with my wife and family, our lively [Weimaraner](https://www.akc.org/dog-breeds/weimaraner?utm_source=chatgpt.com), at [live music](https://www.songkick.com/?utm_source=chatgpt.com), exploring [new places](https://www.google.com/maps/d/u/1/edit?mid=17xvqfTc_OMc9VCa3vX-LsG3JqfC43mo&usp=sharing&utm_source=chatgpt.com), or cheering on the [Crimson Tide](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football?utm_source=chatgpt.com).
+<br>
 
----
-
-🌐 [Website](https://adams.io) | 💼 [LinkedIn](https://www.linkedin.com/in/pkadams67) | 📘 [Facebook](http://facebook.com/pkadams67)
+[![Website](https://img.shields.io/badge/adams.io-FF8200?style=flat-square)](https://adams.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/pkadams67)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](http://facebook.com/pkadams67)
