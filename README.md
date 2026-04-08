@@ -14,4 +14,4 @@ Outside work, I spend time with my wife, family, and our [Weimaraner](https://ww
 
 [![Blog](https://img.shields.io/badge/Blog-2E7A52?style=flat-square)](https://adams.io/blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/paul-k-adams)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](http://facebook.com/pkadams67)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](https://www.facebook.com/paul.k.adams)
